@@ -1,16 +1,47 @@
-# favorite_places
+# 📍 Favorite Places App
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)](https://firebase.google.com/)
+[![Google Maps API](https://img.shields.io/badge/Google%20Maps-API-lightgrey)](https://developers.google.com/maps)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## Getting Started
+> Save and organize your favorite places easily with a beautiful Flutter app.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📍 **Google Maps Integration**: Select and save locations on the map
+- 🔥 **Firebase Storage**: Securely store your favorite spots
+- 🌐 **HTTP Requests**: Fetch and manage location data
+- 🧭 **Organized UI**: Friendly interface for managing your saved places
+- 📸 (Optional) Upload photos tied to each location
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** – Frontend framework
+- **Dart** – Programming language
+- **Firebase** – Cloud backend and database
+- **Google Maps API** – Location services
+- **HTTP Package** – Networking
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to project directory
+cd your-repo-name
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
